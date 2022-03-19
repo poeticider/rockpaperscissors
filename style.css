@@ -35,7 +35,7 @@
     position: absolute;
     top: 70px;
     z-index: 1;
-    font-family: Arial;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
  
 /* Score  */
