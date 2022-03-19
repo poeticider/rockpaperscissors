@@ -35,7 +35,6 @@
     position: absolute;
     top: 70px;
     z-index: 1;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
  
 /* Score  */
@@ -43,6 +42,9 @@
     text-align: center;
     font-size: 1.5rem;
     margin-top: 1rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orangered;
+    
 }
  
 /* displaying three buttons in one line */
